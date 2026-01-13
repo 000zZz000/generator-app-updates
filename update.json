@@ -1,12 +1,12 @@
 {
-  "version": "1.0.11",
-  "versionCode": "111",
+  "version": "1.0.12",
+  "versionCode": "112",
   "wgtUrl": "https://000zZz000.github.io/generator-app-updates/update.wgt",
   "forceUpdate": false,
   "releaseNotes": {
-    "zh-Hans": "版本 1.0.11 更新内容:\n\n1. 修复动态导入警告\n2. 添加热更新功能\n3. 优化应用性能",
-    "en": "Version 1.0.11 Update:\n\n1. Fixed dynamic import warnings\n2. Added hot update functionality\n3. Optimized application performance",
-    "ar": "تحديث الإصدار 1.0.11:\n\n1. إصلاح تحذيرات الاستيراد الديناميكي\n2. إضافة وظيفة التحديث الساخن\n3. تحسين أداء التطبيق"
+    "zh-Hans": "版本 1.0.12 更新内容:\n\n1. 修复动态导入警告\n2. 添加热更新功能\n3. 优化应用性能",
+    "en": "Version 1.0.12 Update:\n\n1. Fixed dynamic import warnings\n2. Added hot update functionality\n3. Optimized application performance",
+    "ar": "تحديث الإصدار 1.0.12:\n\n1. إصلاح تحذيرات الاستيراد الديناميكي\n2. إضافة وظيفة التحديث الساخن\n3. تحسين أداء التطبيق"
   },
   "releaseDate": "2026-01-13",
   "minAppVersion": "1.0.0",
